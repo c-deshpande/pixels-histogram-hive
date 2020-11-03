@@ -1,5 +1,5 @@
 # pixels-histogram-hive
-Generate Histogram for each RGB color in the given dataset using Hive.
+Generate Histogram for each RGB color in the given dataset using HiveQL.
 
 Project done as a part of CSE-6331 Cloud Computing Course at UTA.
 
@@ -11,4 +11,4 @@ For example, the line
 
 23,140,45 represents a pixel with red=23, green=140, and blue=45.
 
-<p>Same project as <a href="https://github.com/c-deshpande/pixel-histograms">this</a> but implemented using Hive</p>
+<p>Same project as <a href="https://github.com/c-deshpande/pixel-histograms">this</a> but implemented using HiveQL</p>
